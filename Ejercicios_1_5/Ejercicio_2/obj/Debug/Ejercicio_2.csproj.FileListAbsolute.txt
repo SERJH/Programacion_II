@@ -1,0 +1,5 @@
+C:\Users\SERJH\Documents\Visual Studio 2015\Projects\Ejercicios_1_5\Ejercicio_2\bin\Debug\Ejercicio_2.exe.config
+C:\Users\SERJH\Documents\Visual Studio 2015\Projects\Ejercicios_1_5\Ejercicio_2\bin\Debug\Ejercicio_2.exe
+C:\Users\SERJH\Documents\Visual Studio 2015\Projects\Ejercicios_1_5\Ejercicio_2\bin\Debug\Ejercicio_2.pdb
+C:\Users\SERJH\Documents\Visual Studio 2015\Projects\Ejercicios_1_5\Ejercicio_2\obj\Debug\Ejercicio_2.exe
+C:\Users\SERJH\Documents\Visual Studio 2015\Projects\Ejercicios_1_5\Ejercicio_2\obj\Debug\Ejercicio_2.pdb

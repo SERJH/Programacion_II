@@ -1,0 +1,5 @@
+C:\Users\SERJH\Documents\Visual Studio 2015\Projects\Ejercicios_1_5\Ejercicio_3\bin\Debug\Ejercicio_3.exe.config
+C:\Users\SERJH\Documents\Visual Studio 2015\Projects\Ejercicios_1_5\Ejercicio_3\bin\Debug\Ejercicio_3.exe
+C:\Users\SERJH\Documents\Visual Studio 2015\Projects\Ejercicios_1_5\Ejercicio_3\bin\Debug\Ejercicio_3.pdb
+C:\Users\SERJH\Documents\Visual Studio 2015\Projects\Ejercicios_1_5\Ejercicio_3\obj\Debug\Ejercicio_3.exe
+C:\Users\SERJH\Documents\Visual Studio 2015\Projects\Ejercicios_1_5\Ejercicio_3\obj\Debug\Ejercicio_3.pdb

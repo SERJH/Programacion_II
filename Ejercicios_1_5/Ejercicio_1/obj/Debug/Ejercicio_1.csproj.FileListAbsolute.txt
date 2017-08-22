@@ -1,0 +1,6 @@
+c:\users\serjh\documents\visual studio 2015\Projects\Ejercicios_1_5\Ejercicio_1\bin\Debug\Ejercicio_1.exe.config
+c:\users\serjh\documents\visual studio 2015\Projects\Ejercicios_1_5\Ejercicio_1\bin\Debug\Ejercicio_1.exe
+c:\users\serjh\documents\visual studio 2015\Projects\Ejercicios_1_5\Ejercicio_1\bin\Debug\Ejercicio_1.pdb
+c:\users\serjh\documents\visual studio 2015\Projects\Ejercicios_1_5\Ejercicio_1\obj\Debug\Ejercicio_1.csprojResolveAssemblyReference.cache
+c:\users\serjh\documents\visual studio 2015\Projects\Ejercicios_1_5\Ejercicio_1\obj\Debug\Ejercicio_1.exe
+c:\users\serjh\documents\visual studio 2015\Projects\Ejercicios_1_5\Ejercicio_1\obj\Debug\Ejercicio_1.pdb

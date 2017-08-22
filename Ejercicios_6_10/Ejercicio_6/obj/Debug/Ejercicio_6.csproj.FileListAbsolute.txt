@@ -1,0 +1,5 @@
+c:\users\serjh\documents\visual studio 2015\Projects\Ejercicios_6_10\Ejercicio_6\bin\Debug\Ejercicio_6.exe.config
+c:\users\serjh\documents\visual studio 2015\Projects\Ejercicios_6_10\Ejercicio_6\bin\Debug\Ejercicio_6.exe
+c:\users\serjh\documents\visual studio 2015\Projects\Ejercicios_6_10\Ejercicio_6\bin\Debug\Ejercicio_6.pdb
+c:\users\serjh\documents\visual studio 2015\Projects\Ejercicios_6_10\Ejercicio_6\obj\Debug\Ejercicio_6.exe
+c:\users\serjh\documents\visual studio 2015\Projects\Ejercicios_6_10\Ejercicio_6\obj\Debug\Ejercicio_6.pdb

@@ -1,0 +1,6 @@
+C:\Users\SERJH\Desktop\Programacion\UTN\Tecnicatura en Programacion\Programacion 2 - Lab 2\Ejercicios\Ejercicios_1_5\Ejercicio_5\bin\Debug\Ejercicio_5.exe.config
+C:\Users\SERJH\Desktop\Programacion\UTN\Tecnicatura en Programacion\Programacion 2 - Lab 2\Ejercicios\Ejercicios_1_5\Ejercicio_5\bin\Debug\Ejercicio_5.exe
+C:\Users\SERJH\Desktop\Programacion\UTN\Tecnicatura en Programacion\Programacion 2 - Lab 2\Ejercicios\Ejercicios_1_5\Ejercicio_5\bin\Debug\Ejercicio_5.pdb
+C:\Users\SERJH\Desktop\Programacion\UTN\Tecnicatura en Programacion\Programacion 2 - Lab 2\Ejercicios\Ejercicios_1_5\Ejercicio_5\obj\Debug\Ejercicio_5.csprojResolveAssemblyReference.cache
+C:\Users\SERJH\Desktop\Programacion\UTN\Tecnicatura en Programacion\Programacion 2 - Lab 2\Ejercicios\Ejercicios_1_5\Ejercicio_5\obj\Debug\Ejercicio_5.exe
+C:\Users\SERJH\Desktop\Programacion\UTN\Tecnicatura en Programacion\Programacion 2 - Lab 2\Ejercicios\Ejercicios_1_5\Ejercicio_5\obj\Debug\Ejercicio_5.pdb

@@ -1,0 +1,11 @@
+C:\Users\SERJH\Documents\Visual Studio 2015\Projects\Ejercicios_1_5\Ejercicio_4\bin\Debug\Ejercicio_4.exe.config
+C:\Users\SERJH\Documents\Visual Studio 2015\Projects\Ejercicios_1_5\Ejercicio_4\bin\Debug\Ejercicio_4.exe
+C:\Users\SERJH\Documents\Visual Studio 2015\Projects\Ejercicios_1_5\Ejercicio_4\bin\Debug\Ejercicio_4.pdb
+C:\Users\SERJH\Documents\Visual Studio 2015\Projects\Ejercicios_1_5\Ejercicio_4\obj\Debug\Ejercicio_4.exe
+C:\Users\SERJH\Documents\Visual Studio 2015\Projects\Ejercicios_1_5\Ejercicio_4\obj\Debug\Ejercicio_4.pdb
+C:\Users\SERJH\Desktop\Ejercicios_1_5\Ejercicio_4\bin\Debug\Ejercicio_4.exe.config
+C:\Users\SERJH\Desktop\Ejercicios_1_5\Ejercicio_4\obj\Debug\Ejercicio_4.exe
+C:\Users\SERJH\Desktop\Ejercicios_1_5\Ejercicio_4\obj\Debug\Ejercicio_4.pdb
+C:\Users\SERJH\Desktop\Programacion\UTN\Tecnicatura en Programacion\Programacion 2 - Lab 2\Ejercicios\Ejercicios_1_5\Ejercicio_4\bin\Debug\Ejercicio_4.exe.config
+C:\Users\SERJH\Desktop\Programacion\UTN\Tecnicatura en Programacion\Programacion 2 - Lab 2\Ejercicios\Ejercicios_1_5\Ejercicio_4\obj\Debug\Ejercicio_4.exe
+C:\Users\SERJH\Desktop\Programacion\UTN\Tecnicatura en Programacion\Programacion 2 - Lab 2\Ejercicios\Ejercicios_1_5\Ejercicio_4\obj\Debug\Ejercicio_4.pdb
